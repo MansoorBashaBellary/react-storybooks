@@ -1,1 +1,9 @@
-# react-storybooks
+### Installation
+
+```
+$ yarn
+```
+
+```
+$ yarn start
+```

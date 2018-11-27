@@ -1,0 +1,22 @@
+{
+  "name": "react-storybooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mansoor Basha Bellary <mbellary@chewy.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "start-storybook -p 6006 -c .storybook -s ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MansoorBashaBellary/react-storybook.git"
+  },
+  "devDependencies": {
+    "@storybook/addon-options": "4.1.0-alpha.8",
+    "@storybook/addon-viewport": "4.1.0-alpha.8",
+    "@storybook/addons": "4.1.0-alpha.8",
+    "@storybook/components": "4.1.0-alpha.8",
+    "@storybook/react": "4.1.0-alpha.8",
+    "react": "^16.6.3"
+  }
+}
